@@ -3,4 +3,9 @@
 **/config.ini
 **/node_modules/**
 dist/**
+docs/_build
 build/**
+**/*.arw
+**/*.dng
+**/*.nef
+**/*.rw2
